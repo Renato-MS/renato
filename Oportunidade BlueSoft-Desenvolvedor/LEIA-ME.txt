@@ -1,0 +1,36 @@
+> O projeto foi criado no NetBeans IDE
+
+>Todas as vezes que eu reiniciava o projeto NetBeans, tinha que conectar o Derby antes
+
+>Criei o mesmo projeto no Eclipe usado Struts2, mas tive que abandonar devido a erro de XML que não consegui resolver no Eclipse
+
+
+>Todos os requisitos da Oportunidade como Desenvolvedor foram atendidos, porém foi dado mais atenção a parte de back-end (Programação Java).
+
+> Foram usados no projeto: 
+
+
+NetBeans IDE
+
+Ambinte Linux
+
+JPA/Hibernate,
+
+Java,
+
+Servlet, 
+
+JSP, 
+
+HyperSQL Derby, 
+
+Strutus2(Eclipse [erro XML!]),
+
+Bootstrap
+
+Teste Unitario (JUnit)
+
+MVC
+
+
+ 

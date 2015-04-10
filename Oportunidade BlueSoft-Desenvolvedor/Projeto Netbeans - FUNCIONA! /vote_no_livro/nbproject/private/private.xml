@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/test/br/com/bluesoft/modelo/LeitorTest.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/test/com/br/bluesoft/controle/ServletGravaLivrosTest.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/web/WEB-INF/web.xml</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/test/br/com/bluesoft/HibernateUtil/HibernateUtilTest.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/web/MostraRaking.jsp</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/web/escolha_livroTwo.jsp</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/web/PedeNomeUsuario.jsp</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/src/java/com/br/bluesoft/HibernateDAO/LeitorDao.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/src/java/com/br/bluesoft/controle/ServletGravaLivros.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/test/com/br/bluesoft/HibernateDAO/LeitorDaoTest.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/test/br/com/bluesoft/modelo/LivroTest.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/src/java/hibernate.cfg.xml</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/web/index.jsp</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/src/java/com/br/bluesoft/HibernateDAO/InterfaceLeitorDAO.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/src/java/br/com/bluesoft/modelo/Livro.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/src/java/br/com/bluesoft/HibernateUtil/HibernateUtil.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/src/java/br/com/bluesoft/modelo/Leitor.java</file>
+            <file>file:/home/anonimo/NetBeansProjects/vote_no_livro/test/com/br/bluesoft/HibernateDAO/InterfaceLeitorDAOTest.java</file>
+        </group>
+    </open-files>
+</project-private>
